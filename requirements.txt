@@ -1,3 +1,15 @@
 altair
+numpy
 pandas
+pydeck
 streamlit
+PyPDF2
+pinecone-client
+langchain
+langchain-core 
+langchain-community 
+langchain-openai
+openai
+sendgrid
+markdown
+mistune
